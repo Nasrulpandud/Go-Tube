@@ -1,2 +1,2 @@
 # Go-Tube
-Go Tube, Software youtube downloader yang dibuat dengan python
+CLI Version Of Go Tube
